@@ -1,23 +1,60 @@
 # Hi, I'm Dinesh 👋
 
-Backend engineer focused on building production-grade infrastructure, AI systems, and developer tooling.
+AI Data Scientist building **LLM agents, multi-agent systems, and real-world AI products at scale**.
 
-## 🚧 Currently building
+---
 
-* **Nameguard** — FastAPI microservice for name validation and intelligent suggestions
-* **server-infra** — production VPS + container infrastructure for SaaS applications
-* **traceLM** — cross-platform LLM usage monitoring (Flutter)
+## 🚀 Products I'm Building
 
-## 🧠 Focus
+* **Phazeo** - https://phazeo.com
+  AI ecosystem powering multiple intelligent platforms
 
-Backend Systems · Python · FastAPI · TypeScript · Docker · Linux · Infrastructure · AI Tooling
+* **Scrift** - https://scrift.app
+  Brand intelligence system with APIs, SDKs, and data pipelines
 
-## 📌 Work
+* **Nexdue** - https://nexdue.app
+  Renew Intelligence to track subscriptions, warranties and recurring payments
 
-* Designing scalable backend services with clear separation of concerns
-* Building production-ready infrastructure for real-world deployments
-* Developing AI-powered developer tools and automation systems
+* **Glimfox** - https://glimfox.com
+  Experimental AI platform exploring new product directions
 
-## 📊 GitHub Stats
+* **Pixsort** - Upcoming soon
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh-ad\&show_icons=true\&hide=stars\&count_private=true\&include_all_commits=true)
+---
+
+## ⚡ What I Actually Do
+
+* Build **LLM agents & multi-agent systems** (LangGraph, LangChain, MCP-style orchestration)
+* Design **RAG pipelines & knowledge-driven AI systems**
+* Apply **NLP + ML on large-scale real-world data**
+* Ship **production AI systems with reliability, validation & evaluation layers**
+
+---
+
+## 🧠 Current Focus
+
+* Agent orchestration & tool routing
+* LLM evaluation (Deepeval, model-as-judge)
+* Scalable AI pipelines
+* Real-world AI product development
+
+---
+
+## 🔧 Active Work
+
+* **Nameguard** - intelligent name validation + suggestion system
+* **server-infra** - infrastructure for deploying AI systems at scale
+* **traceLM** - monitoring and tracking LLM usage
+
+---
+
+## ⚙️ Stack
+
+Python · NLP · LLM Agents · LangChain · LangGraph · RAG · Vector DBs · FastAPI · Spark · Snowflake · Docker · Cloud AI · R · Rust
+
+---
+
+## 🎯 Positioning
+
+I don't just build models.
+I build **AI systems that run in production and power real products**.
