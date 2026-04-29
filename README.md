@@ -1,6 +1,10 @@
-# Hi, I'm Dinesh 👋
+<h1 align="center">𝓓𝓲𝓷𝓮𝓼𝓱  👋 </h1>
 
-AI Data Scientist building **LLM agents, multi-agent systems, and real-world AI products at scale**.
+🤖 AI Data Scientist  
+🧠 LLM Agents • 🔤 NLP • 🏗️ Data Engineering  
+🇫🇷 Paris | 🎓 Master’s Degree – Big Data & Data Science | 🏢 Data Scientist @ Omnicom
+
+Building **LLM agents, multi-agent systems, and real-world AI products at scale**.
 
 ---
 
