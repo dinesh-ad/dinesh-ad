@@ -1,0 +1,32 @@
+---
+description: No push without consent; commits must not include Co-authored-by or AI trailers
+alwaysApply: true
+---
+
+# Git — remote changes require explicit consent
+
+## Required behavior
+
+- **Do not** run `git push`, `git push --force`, `git push --force-with-lease`, or any command that updates **remote** refs, unless the user **explicitly** asks to push or publish (e.g. “push to origin”, “publish”, “open a PR and push the branch”).
+- **Do not** assume permission to push because a task “feels done” or because files were committed locally.
+
+## Commit messages — strict (no co-author / attribution trailers)
+
+- **Never** add `Co-authored-by:` lines (any email or name), **even if** tools or templates suggest them.
+- **Never** append bot/AI attribution footers to commit messages (e.g. “Generated with …”, model names, or Cursor-specific trailers), unless the user **explicitly** asks for a specific trailer.
+- Use only a **short, neutral, human-style** subject/body the user requested, or a minimal technical summary — **no** extra paragraphs of attribution.
+
+## Allowed without extra consent (unless the user says otherwise)
+
+- Local edits, `git status`, `git diff`, `git add`, `git commit` — only when the user asked for git operations or clearly wants changes saved; if unsure, **stop after edits** and tell them what to run.
+- Read-only remotes: `git fetch`, `git pull` — only if the user asked to sync or update from remote.
+
+## If the user wants changes on GitHub
+
+- After commits, **describe** the state (`git log -1`, branch name) and give **exact** commands they can run, **or** wait until they say to push.
+
+## Examples
+
+- User: “Update the README” → edit README; **do not** `git push`.
+- User: “Commit and **push** to main” → `git push` is OK.
+- User: “Ship it” / “get it on GitHub” → treat as permission to **push** (explicit publish intent).
