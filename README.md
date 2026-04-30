@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=%F0%9D%93%93%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%B1&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Banner: Dinesh (script 𝓓𝓲𝓷𝓮𝓼𝓱)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8b4fe,100:6d28d9&height=180&section=header&text=%F0%9D%93%93%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%B1&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Banner: Dinesh (script 𝓓𝓲𝓷𝓮𝓼𝓱)" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Dinesh+Allimuthu;AI+Data+Scientist;LLM+Agents+%7C+NLP+%7C+RAG;Paris+%7C+France+%7C+Omnicom" alt="AI Data Scientist - LLM Agents, NLP, RAG - Paris, Omnicom" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Data+Scientist;LLM+Agents+%7C+NLP+%7C+RAG;Paris+%7C+France+%7C+Omnicom" alt="AI Data Scientist - LLM Agents, NLP, RAG - Paris, Omnicom" />
 </p>
 
 <p align="center">
